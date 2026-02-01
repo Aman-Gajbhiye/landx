@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/account/page": "/account",
+  "/compliance/page": "/compliance",
+  "/dashboard/page": "/dashboard",
+  "/explore/page": "/explore",
+  "/how-it-works/page": "/how-it-works",
+  "/kyc/page": "/kyc",
+  "/login/page": "/login",
+  "/page": "/",
+  "/payment/page": "/payment",
+  "/privacy/page": "/privacy",
+  "/property/[id]/page": "/property/[id]",
+  "/signup/page": "/signup",
+  "/terms/page": "/terms"
+}

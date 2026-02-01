@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "kycStatus": "VERIFIED",
+      "walletBalance": 1931001,
+      "transactions": []
+    },
+    {
+      "id": 1767679025708,
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123",
+      "kycStatus": "PENDING",
+      "walletBalance": 0,
+      "transactions": []
+    },
+    {
+      "id": 1767679143421,
+      "name": "Rishi Shahu",
+      "email": "joro00214@gmail.com",
+      "password": "password",
+      "kycStatus": "VERIFIED",
+      "walletBalance": 20000,
+      "transactions": []
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "name": "Prestige Corporate Tower",
+      "city": "Mumbai",
+      "type": "Commercial",
+      "rentYield": 7.5,
+      "minInvestment": 50000,
+      "appreciation": 12,
+      "image": "/properties/1.jpg",
+      "fundedAmount": 2500000,
+      "totalValue": 10000000
+    },
+    {
+      "id": 2,
+      "name": "Green Valley Residences",
+      "city": "Bangalore",
+      "type": "Residential",
+      "rentYield": 6.2,
+      "minInvestment": 40000,
+      "appreciation": 10,
+      "image": "/properties/2.jpg",
+      "fundedAmount": 1200000,
+      "totalValue": 8000000
+    },
+    {
+      "id": 3,
+      "name": "Downtown Plaza",
+      "city": "Delhi",
+      "type": "Mixed Use",
+      "rentYield": 8.1,
+      "minInvestment": 60000,
+      "appreciation": 14,
+      "image": "/properties/3.jpg",
+      "fundedAmount": 1800000,
+      "totalValue": 12000000
+    },
+    {
+      "id": 4,
+      "name": "Tech Park Hub",
+      "city": "Hyderabad",
+      "type": "Commercial",
+      "rentYield": 7.8,
+      "minInvestment": 55000,
+      "appreciation": 13,
+      "image": "/properties/4.jpg",
+      "fundedAmount": 1650000,
+      "totalValue": 9000000
+    },
+    {
+      "id": 5,
+      "name": "Riverside Apartments",
+      "city": "Pune",
+      "type": "Residential",
+      "rentYield": 5.9,
+      "minInvestment": 35000,
+      "appreciation": 9,
+      "image": "/properties/5.jpg",
+      "fundedAmount": 700000,
+      "totalValue": 6000000
+    },
+    {
+      "id": 6,
+      "name": "Marina Heights",
+      "city": "Chennai",
+      "type": "Residential",
+      "rentYield": 6.5,
+      "minInvestment": 42000,
+      "appreciation": 11,
+      "image": "/properties/6.jpg",
+      "fundedAmount": 840000,
+      "totalValue": 7000000
+    },
+    {
+      "id": 7,
+      "name": "Luxury Apartment Complex",
+      "city": "Mumbai",
+      "type": "Residential",
+      "rentYield": 5.2,
+      "minInvestment": 50000,
+      "appreciation": 12.5,
+      "image": "/images/prop1.jpg",
+      "fundedAmount": 1000000,
+      "totalValue": 10000000
+    },
+    {
+      "id": 8,
+      "name": "Office Space Complex",
+      "city": "Bangalore",
+      "type": "Commercial",
+      "rentYield": 7.8,
+      "minInvestment": 100000,
+      "appreciation": 9.2,
+      "image": "/images/prop2.jpg",
+      "fundedAmount": 2000000,
+      "totalValue": 8000000
+    },
+    {
+      "id": 9,
+      "name": "Retail Store Plaza",
+      "city": "Delhi",
+      "type": "Commercial",
+      "rentYield": 6.5,
+      "minInvestment": 75000,
+      "appreciation": 10.1,
+      "image": "/images/prop3.jpg",
+      "fundedAmount": 750000,
+      "totalValue": 5000000
+    }
+  ],
+  "investments": [
+    {
+      "id": 1765898445718,
+      "userId": 1,
+      "propertyId": 2,
+      "amount": 100000,
+      "date": "2025-12-16T15:20:45.718Z"
+    },
+    {
+      "id": 1767619616861,
+      "userId": 1,
+      "propertyId": 3,
+      "amount": 75000,
+      "date": "2026-01-05T13:26:56.861Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1765896751049,
+      "userId": 1,
+      "amount": 1000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2025-12-16T14:52:31.049Z"
+    },
+    {
+      "id": 1765898407298,
+      "userId": 1,
+      "amount": 50000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2025-12-16T15:20:07.298Z"
+    },
+    {
+      "id": 1765898445719,
+      "userId": 1,
+      "amount": -100000,
+      "type": "INVESTMENT",
+      "status": "COMPLETED",
+      "date": "2025-12-16T15:20:45.718Z"
+    },
+    {
+      "id": 1767619601632,
+      "userId": 1,
+      "amount": 1000000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-05T13:26:41.632Z"
+    },
+    {
+      "id": 1767619616862,
+      "userId": 1,
+      "amount": -75000,
+      "type": "INVESTMENT",
+      "status": "COMPLETED",
+      "date": "2026-01-05T13:26:56.861Z"
+    },
+    {
+      "id": 1767682150064,
+      "userId": 1,
+      "amount": 1000000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-06T06:49:10.064Z"
+    },
+    {
+      "id": 1767716648640,
+      "userId": 1,
+      "amount": 1,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-06T16:24:08.640Z"
+    },
+    {
+      "id": 1768025709307,
+      "userId": 1767679143421,
+      "amount": 10000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-10T06:15:09.307Z"
+    },
+    {
+      "id": 1768026696443,
+      "userId": 1767679143421,
+      "amount": 10000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-10T06:31:36.443Z"
+    },
+    {
+      "id": 1768026838071,
+      "userId": 1,
+      "amount": 5000,
+      "type": "DEPOSIT",
+      "status": "COMPLETED",
+      "date": "2026-01-10T06:33:58.071Z"
+    }
+  ]
+}

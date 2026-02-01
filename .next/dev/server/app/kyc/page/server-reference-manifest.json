@@ -1,0 +1,170 @@
+{
+  "node": {
+    "000e67e8dcbd0c2e0f0dc39b71d4153f19d00db378": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getProperties",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "getProperties",
+      "filename": "lib/actions.ts"
+    },
+    "40f0dce49d39c4c435a187205e8b444cd541d639aa": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getProperty",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "getProperty",
+      "filename": "lib/actions.ts"
+    },
+    "606d8d59d2d107a4c066e9304255b52e0ecde82c2e": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "submitKYC",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "submitKYC",
+      "filename": "lib/actions.ts"
+    },
+    "601cb012f4f1004444a3b9dde97a0b48fa63647abc": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "addFunds",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "addFunds",
+      "filename": "lib/actions.ts"
+    },
+    "608a2692169937e5b55df742326f7ce502808588e2": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "withdrawRent",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "withdrawRent",
+      "filename": "lib/actions.ts"
+    },
+    "4051bd4505312ea60047d5964f09d6aac50239f7c1": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserProfile",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "getUserProfile",
+      "filename": "lib/actions.ts"
+    },
+    "70a344671d1a7887505c626cc2490635876ff31821": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invest",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "invest",
+      "filename": "lib/actions.ts"
+    },
+    "4043e4cf325034b94ff3880c9568cfcaa3b3f889a0": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserInvestments",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "getUserInvestments",
+      "filename": "lib/actions.ts"
+    },
+    "606c4278fb303f0ce3f12a9bcc9e32046707f232a8": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUserProfile",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "updateUserProfile",
+      "filename": "lib/actions.ts"
+    },
+    "78a97f83685070927a2e5241241aa2809752d9bd46": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createPaymentOrder",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "createPaymentOrder",
+      "filename": "lib/actions.ts"
+    },
+    "7ead9033c5cf582234a649e2681a392c5d1937ea72": {
+      "workers": {
+        "app/kyc/page": {
+          "moduleId": "[project]/.next-internal/server/app/kyc/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "verifyPayment",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/kyc/page": "action-browser"
+      },
+      "exportedName": "verifyPayment",
+      "filename": "lib/actions.ts"
+    }
+  },
+  "edge": {}
+}
